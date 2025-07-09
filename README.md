@@ -1,3 +1,6 @@
+![github cover image](https://github.com/user-attachments/assets/2d648ddc-3134-4fe6-84f1-9daffb8bb30f)
+
+
 # Alexei Halaim – Smart Home Portfolio: Articles & GitHub Index
 
 Welcome to my public smart home and security integration portfolio. This GitHub hub contains links to all my technical articles documenting real-world projects, DIY engineering, and advanced integrations using Home Assistant, ESPHome, AJAX, Dahua, and more.
