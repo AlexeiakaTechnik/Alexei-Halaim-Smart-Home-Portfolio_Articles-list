@@ -6,43 +6,43 @@ All write-ups are based on my direct hands-on experience as an installer, integr
 
 ## 📌 Article Index
 
-### 🧪 [DIY ESP32 Sensors & Cameras for Home Assistant](https://github.com/AlexeiakaTechnik/DIY-esp32-esphome-homeassistant-sensors_cams)
+### 🧪 [DIY ESP32 Sensors & Cameras for Home Assistant](https://github.com/AlexeiakaTechnik/DIY-esp32-esphome-homeassistant-sensors_cams) - Finished
 **Designing, building, calibrating and integrating ESP32-based DIY sensors and cameras**  
 Includes 3D modeling in Inventor, 3D printing, ESPHome setup, YAML configs, testing, calibration workflows, and Home Assistant integration. A full cycle from prototype to final dashboard.
 
 ---
 
-### 🛡️ [AJAX Security System Integration in Home Assistant](https://github.com/AlexeiakaTechnik/AJAX_security-integration-in-Home_Assistant)
+### 🛡️ [AJAX Security System Integration in Home Assistant](https://github.com/AlexeiakaTechnik/AJAX_security-integration-in-Home_Assistant) - Finished
 **How to control a closed AJAX security system from HA using a "hacked" SpaceControl remote**  
 Unconventional but practical method of arming/disarming AJAX via Wi-Fi relay soldered into key fob + Home Assistant automations.
 
 ---
 
-### 📡 [Using AJAX Alarm Sensors as HA Triggers (SIA Protocol)](https://github.com/AlexeiakaTechnik/Use-Ajax-Security-alarm-sensors-as-a-Automation-Triggers-in-Home-Assistant)
+### 📡 [Using AJAX Alarm Sensors as HA Triggers (SIA Protocol)](https://github.com/AlexeiakaTechnik/Use-Ajax-Security-alarm-sensors-as-a-Automation-Triggers-in-Home-Assistant) - Finished
 **Extracting motion events from AJAX IR sensors and using them for lighting and automation**  
 Explanation of SIA protocol setup, parsing events from AJAX app to HA, and building responsive automation logic.
 
 ---
 
-### 💡 [My Experience Improving Light Automations in Home Assistant](https://github.com/AlexeiakaTechnik/My-experience-of-improving-Light-Automations-in-Home-Assistant)
+### 💡 [My Experience Improving Light Automations in Home Assistant](https://github.com/AlexeiakaTechnik/My-experience-of-improving-Light-Automations-in-Home-Assistant) - Work In Progress
 **Exploring presence detection, ambient light sensors, contextual overrides, and more**  
 Lessons learned from building progressively smarter, more adaptive lighting systems using different sensors, presence detection, physical switches, and override logic.
 
 ---
 
-### 🖥️ [Practical and Stylish HA Dashboards for Tablets & Phones](https://github.com/AlexeiakaTechnik/Practial-and-stylish-Home-Assistant-Dashboards-for-Tablets-and-Mobile-Phones)
+### 🖥️ [Practical and Stylish HA Dashboards for Tablets & Phones](https://github.com/AlexeiakaTechnik/Practial-and-stylish-Home-Assistant-Dashboards-for-Tablets-and-Mobile-Phones) - Work In Progress
 **Building modern, user-friendly interfaces for wall-mounted tablets and old phones**  
 Covers Fully Kiosk integration, UI tips, device reuse, security control panels, camera previews, and interactive dashboards.
 
 ---
 
-### 🚪 [Integrating Dahua VTO Doorbells in Home Assistant](https://github.com/AlexeiakaTechnik/Integration-of-Dahua-VTOs-Doorbells-into-Home-Assistant-and-creating-UI-for-it)
+### 🚪 [Integrating Dahua VTO Doorbells in Home Assistant](https://github.com/AlexeiakaTechnik/Integration-of-Dahua-VTOs-Doorbells-into-Home-Assistant-and-creating-UI-for-it) - Work In Progress
 **HA automation and UI/UX design for handling doorbell calls, streams, and fallback options**  
 Explains stream capture, button press detection, pop-up UI, call-to-app fallbacks for 2-way audio, and full door interaction setup.
 
 ---
 
-### 🎥 [Dahua Camera/CCTV System in Home Assistant](https://github.com/AlexeiakaTechnik/Integrating-Dahua-Cameras-CCTV-System-in-Home-Assistant)
+### 🎥 [Dahua Camera/CCTV System in Home Assistant](https://github.com/AlexeiakaTechnik/Integrating-Dahua-Cameras-CCTV-System-in-Home-Assistant) - Work In Progress
 **Getting Dahua NVRs and cameras into Home Assistant with actionable smart events**  
 Integration walkthrough with go2rtc, smart motion detection, light automations, RTSP streaming setup, and best-practice camera config.
 
