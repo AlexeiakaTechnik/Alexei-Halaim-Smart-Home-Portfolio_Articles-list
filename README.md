@@ -52,7 +52,10 @@ Integration walkthrough with go2rtc, smart motion detection, light automations, 
 **Alexei Halaim**  
 Smart Home & Security Systems Integrator  
 📍 Chișinău, Moldova | 🌍 Romanian Passport (EU) | 🚗 Own Car & Tools | 💬 Multilingual  
+
 GitHub: [github.com/AlexeiakaTechnik](https://github.com/AlexeiakaTechnik)
+LinkedIn: [Link](https://www.linkedin.com/in/alexei-halaim-b62326172?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6ZO0z%2FNmSX%2BKfpzKbW93Dg%3D%3D)
+Portfolio Photos/Videos: [Google Drive](https://drive.google.com/drive/folders/1B0h1R6o8KGoRNpjO1Q4JvHz6IWTyOoRs?usp=drive_link)
 
 This repository is the anchor point of my technical CV, job applications, and public-facing portfolio.
 
