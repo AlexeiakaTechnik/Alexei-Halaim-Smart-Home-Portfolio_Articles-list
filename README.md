@@ -45,7 +45,7 @@ Explains stream capture, button press detection, pop-up UI, call-to-app fallback
 
 ---
 
-### 🎥 [Dahua Camera/CCTV System in Home Assistant](https://github.com/AlexeiakaTechnik/Integrating-Dahua-Cameras-CCTV-System-in-Home-Assistant) - Work In Progress
+### 🎥 [Dahua Camera/CCTV System in Home Assistant](https://github.com/AlexeiakaTechnik/Integrating-Dahua-Cameras-CCTV-System-in-Home-Assistant) - Finished
 **Getting Dahua NVRs and cameras into Home Assistant with actionable smart events**  
 Integration walkthrough with go2rtc, smart motion detection, light automations, RTSP streaming setup, and best-practice camera config.
 
